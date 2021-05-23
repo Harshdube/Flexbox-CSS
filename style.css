@@ -1,0 +1,26 @@
+    
+ h1 {
+     color: rgb(248, 246, 246);
+    }
+
+ /* * {
+     border: solid;
+   }*/
+    .first{
+        background-color: black;
+        display:flex ;
+        justify-content: space-between;
+    }    
+    .fouth{
+        display: flex;
+        flex-wrap:wrap ;
+        justify-content: space-between;
+    }
+    p,h2{
+        text-align: center;
+        
+    }
+    .footer{
+        display: flex;
+        justify-content: flex-end;
+    }
